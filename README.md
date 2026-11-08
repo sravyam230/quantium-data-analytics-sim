@@ -4,7 +4,7 @@ Work completed for the [Quantium Data Analytics Job Simulation](https://www.thef
 
 Quantium's retail analytics team was supporting the Category Manager for chips at a supermarket client. Two questions: who buys chips and how, and whether a new store layout trialled in three stores should be rolled out. The datasets provided by Forage are for simulation use only and are not included here.
 
-**Notebook:** [`Forage - Quantium- Data Analytics R.ipynb`](https://github.com/sravyam230/quantium-data-analytics-sim/blob/main/Forage_Quantium_Data_Analytics_R.ipynb)
+**Notebook:** [`Forage_Quantium_Data Analytics R.ipynb`](https://github.com/sravyam230/quantium-data-analytics-sim/blob/main/Forage_Quantium_Data_Analytics_R.ipynb)
 
 ## Data
 
